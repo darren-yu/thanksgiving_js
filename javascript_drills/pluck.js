@@ -18,5 +18,5 @@ var plucked = pluck(albums, "artist");
 console.log(plucked);
 
 
-
-
+// Expected output:
+// [ 'Passion Pit', 'Mumford and Sons', 'MGMT' ]

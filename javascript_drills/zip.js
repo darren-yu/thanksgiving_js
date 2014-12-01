@@ -13,3 +13,9 @@ var zip = function(array, array2) {
 var zipped = zip(artists,albums);
 
 console.log(zipped);
+
+
+// Expected output:
+// [ [ 'Passion Pit', 'Gossamer' ],
+//   [ 'Mumford and Sons', 'Sigh no more' ],
+//   [ 'MGMT', 'Time to Pretend' ] ]

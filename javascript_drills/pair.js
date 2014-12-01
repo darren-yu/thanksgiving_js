@@ -16,3 +16,9 @@ var pair = function(obj) {
 };
 
 console.log(pair(obj));
+
+
+// Expected output:
+// [ [ 'Anil', 'Bridgpal' ],
+//   [ 'Sarah', 'Hanley' ],
+//   [ 'Lenny', 'Urbanowski' ] ]
