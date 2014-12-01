@@ -1,5 +1,5 @@
 // input  pattern = "AAASSSDDDDRDDSASSDDDSSSAD"  
-// output pattern = A33S4DR2DSA2S3D3SAD
+// output pattern = 3A3S4DR2DSA2S3D3SAD
 
 var compress = function(string) {
 	var newStr = "";
